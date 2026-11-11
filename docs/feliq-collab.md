@@ -30,9 +30,26 @@ Read: a Crypto X native (10k there) who is starting over on Instagram (under 600
 
 - Footage every week: Twitch streams, YapZ, fractals, battles. An editor's dream, nobody is cutting it.
 - A stage for his music: a WaveWarZ battle, a MixZ lobby, Sparkz alpha access.
-- Pay in the open: poidh bounties for clips (public, on chain, his portfolio grows with each one). Sparkz when it opens.
+- Pay in trade first, see the table below. poidh bounties only for clips outside the trade. Sparkz when it opens.
 - Distribution: the daily Year of the ZAO newsletter, Farcaster, the ZAO community page (thezao.com/community), ZAO DEVZ.
 - Research: our Instagram playbook (docs/playbook.md) and anything from the ZAO research he needs.
+
+## The trade, no cash first (Zaal, 11 Nov: "let's find a way to barter services")
+
+Both sides give time, not money. Each trade below is one line he can say yes or no to.
+
+| HBB Collective gives | ZAO gives back |
+|---|---|
+| One reel a day for zaal.eth, his cut, from our footage | zaal.eth as HBB's first public case study: weekly growth numbers in this repo, both accounts post them, his handle in every caption |
+| The HBB method written down once in this repo | Our Instagram playbook, the clip pipeline and any ZAO research he asks for |
+| Two reels a month for ZAOstock or WaveWarZ | A WaveWarZ battle slot and a MixZ stream for his music, pushed to the ZAO audience and the daily newsletter |
+| Growth and marketing for HBB's own launch (his method, his hours) | One Better Call Zaal strategy session a month for HBB Collective, Zaal's time for his |
+| Filming and cutting one ZAO film project (the Singapore trip, 28 to 30 Dec) | Director credit, the footage stays in his portfolio, we distribute it |
+| A UAE ZAO night, run by HBB | HBB named as the host, ZAO brings the artists, the stream and the newsletter |
+
+Cash stays at the edge: a poidh bounty only for a clip outside the trade (a rush cut, a sponsor edit). Sparkz when it opens.
+
+Keeping it fair: one page in this repo, `docs/trade-log.md`, two columns, what each side gave this week. Anyone can read it. If one column runs long for a month, we talk.
 
 ## What we want from him
 
@@ -43,7 +60,7 @@ Read: a Crypto X native (10k there) who is starting over on Instagram (under 600
 
 ## Questions for Sunday
 
-1. What does HBB Collective charge, and would he take the zaal.eth account as the launch case study at a lower rate plus bounties?
+1. Which lines of the trade table does he take, and what would he add to his column?
 2. How many hours a week can he give it?
 3. Does he want to battle on WaveWarZ or stream on MixZ as a singer?
 4. Who is in his UAE network for a ZAO night?
